@@ -1,0 +1,15 @@
+.button{
+    color:white;
+     width:10%; 
+     background-color: rgb(61, 61, 163);
+      border-radius: 5px;
+       border:2px white solid; 
+       margin-top:10px;
+   
+}
+.button:hover{
+     background-color: #6D6875;
+}
+input[type="text"]:hover{
+    background-color: #6D6875;
+}
